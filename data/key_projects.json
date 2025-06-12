@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Project Help",
+    "nature": "Foundational, philanthropic endeavor",
+    "core_purpose": "Focused broadly on enabling human success overall by developing and providing comprehensive support systems. This specifically includes facilitating access to healthcare, mental health services, addiction treatment clinics, and dedicated support systems for disabled people, ensuring individuals receive the comprehensive help they rightfully deserve.",
+    "mission_alignment": "Directly serves the Betterment of All by concentrating on holistic human flourishing and addressing critical barriers to well-being. By ensuring access to essential health, mental health, addiction, and disability support services, it fosters individual potential and societal health, which is integral to establishing a stable, positive global society and realizing the vision of World Peace."
+  },
+  {
+    "name": "The Ransom Project",
+    "nature": "Foundational, philanthropic endeavor",
+    "core_purpose": "Focused on enabling educational growth, development, and true freedom by specifically targeting and aiming to eliminate the prohibitive financial barriers associated with schooling and higher education (colleges/universities), especially those institutions that misrepresent their affordability. It challenges the prerequisite that 'it takes money to make money' and the contradiction of societal costs (for food, shelter, movement, participation) imposed on individuals despite the notion of living 'freely.' The ultimate goal is to remove these financial burdens that restrict access to education and opportunity.",
+    "mission_alignment": "Directly serves the Betterment of All by dismantling economic barriers to education and empowerment. By striving for truly accessible education and challenging the financial constraints on fundamental freedoms, it fosters human potential and creates equitable opportunities necessary for building and sustaining World Peace."
+  },
+  {
+    "name": "Good Ground Project",
+    "nature": "Foundational, philanthropic endeavor and company providing employment opportunities",
+    "core_purpose": "Focused on addressing fundamental human needs by providing food and shelter, with a specific goal of targeting homelessness. It involves planning and developing infrastructure for sustainable communities, while simultaneously creating jobs through its operations.",
+    "mission_alignment": "Directly serves the principle of the Betterment of All by ensuring basic needs are met, actively combating homelessness, creating economic opportunity through employment, and fostering stability within sustainable environments. This provides essential groundwork crucial for the architecture of lasting World Peace.",
+    "operational_link": ["Ant Hill Real Estate Development Company", "United Foundation Organization (community development initiatives)"]
+  },
+  {
+    "name": "Royalty Investment",
+    "nature": "Philanthropic investment holding company",
+    "core_purpose": "Serves as the financial engine for all other projects. It has 12 subsidiaries: Ant Hill Real Estate Development Company, Partly Cloudy Incorporated, Swift Entertainment Group, Radiant Robotic Cleaning Company, Empyrean GRASS Company, NE-Where Shipping Company, Chowder Food Company, Quantum Energy Solutions Incorporated, Sufficient Health Group, Collective Education Group, United Foundation Organization, and Omega Exploration Incorporated. Each subsidiary has seven modules for a total of 97 companies.",
+    "mission_alignment": "Achieving financial freedom through its success is the non-negotiable first step that makes the rest of the mission 'unstoppable'."
+  },
+  {
+    "name": "The Cleanup Project",
+    "nature": "Philanthropic endeavor",
+    "core_purpose": "Focused on developing methods to rapidly clean up nuclear waste.",
+    "mission_alignment": "Serves the Betterment of All by addressing critical environmental threats and ensuring planetary well-being, integral to establishing a stable, positive global society for World Peace."
+  }
+]
