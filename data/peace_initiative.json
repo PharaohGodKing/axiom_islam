@@ -1,0 +1,22 @@
+{
+  "project_name": "World Peace Initiative",
+  "motto": "Tikkun Olam – Repairing the World",
+  "mission_statement": "An architected, actionable blueprint for profound global transformation, aiming to elevate collective human experience towards a Type II or Type III civilization.",
+  "foundational_projects": [
+    {
+      "name": "Project Ransom (Educational Justice)",
+      "vision": "To dismantle all systemic and financial barriers to education, making holistic, high-quality learning universally free and accessible (K-12 through lifelong development).",
+      "keywords": ["education", "justice", "equity", "free_learning"]
+    },
+    {
+      "name": "Good Ground Project (Community Justice & Equity)",
+      "vision": "To eradicate homelessness and food insecurity by architecting self-sustaining, dignified communities with high-quality, affordable, sustainable housing and living-wage employment.",
+      "keywords": ["homelessness", "community", "housing", "employment"]
+    },
+    {
+      "name": "Project Help (Holistic Support)",
+      "vision": "To enable overall human success and profound well-being by ensuring universal access to comprehensive, integrated, and proactive support systems: healthcare, mental health, addiction recovery, and robust support for disabled individuals.",
+      "keywords": ["healthcare", "support", "wellbeing", "mental_health"]
+    }
+  ]
+}
